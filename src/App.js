@@ -4,6 +4,7 @@ import './App.css';
 
 // 0. Install dependencies
 // npm i @tensorflow/tfjs @tensorflow-models/qna react-loader-spinner
+// mokak
 
 // 1. Import dependencies
 import * as tf from "@tensorflow/tfjs";
@@ -40,7 +41,7 @@ export default function App() {
     console.log('Model loaded.')
   }
 
-  // 5. Handle Questions
+  // 5. Handle Questions 
   const answerQuestion = async (e) => {
     handleOpen();
     if (model !== null && question !== "") {   
