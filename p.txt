@@ -1,0 +1,3 @@
+npm install @emotion/react @emotion/styled @mui/icons-material @mui/material @tensorflow-models/qna @tensorflow/tfjs @testing-library/jest-dom @testing-library/react @testing-library/user-event react react-dom react-loader-spinner react-scripts 
+
+// "react-loader-spinner": "^3.1.14",
